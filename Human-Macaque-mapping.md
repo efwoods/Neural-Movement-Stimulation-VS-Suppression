@@ -46,6 +46,8 @@
 [1]: https://www.simplypsychology.org/brodmann-areas.html?utm_source=chatgpt.com "Brodmann Areas Of The Brain: Anatomy And Functions"
 [2]: https://en.wikipedia.org/wiki/Brodmann_area?utm_source=chatgpt.com "Brodmann area"
 
+\*Note: Pars Opercularis (Broca's Area) is responsible for articulatory planning and speech production. This is most likely where the inner voice is produced or existant.
+
 ## Secondary Brodman's Area Reference
 
 ![](imgs/brodman-area-map-human.png)
