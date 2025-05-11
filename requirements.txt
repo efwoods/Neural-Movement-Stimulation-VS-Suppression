@@ -1,1 +1,7 @@
 pytesseract
+numpy 
+nibabel 
+nilearn 
+matplotlib 
+pyvista 
+scipy
