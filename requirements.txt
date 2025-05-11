@@ -1,2 +1,1 @@
-brainrender
-brainglobe-atlasapi
+pytesseract
